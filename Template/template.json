@@ -25,7 +25,7 @@
       ] ,
       "image": "adguard/adguardhome:latest" ,
       "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/adguard.png" ,
-      "name": "adguard" ,
+      "name": "adguards" ,
       "labels": [
         {
           "test": "test"
